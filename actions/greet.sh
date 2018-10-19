@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "$1, StackStorm!"
-terraform plan
+cd /tmp/$1 && terraform plan
