@@ -1,2 +1,2 @@
-actions/play1.retry
+actions/*.retry
 aliases/play2.retry
